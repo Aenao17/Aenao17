@@ -8,7 +8,7 @@
 
 🚀 Seeking opportunities to kickstart my career in tech
 
-Let's build something awesome! 🚀💻
+**Let's build something awesome!** 🚀💻
 <!--
 **Aenao17/Aenao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
