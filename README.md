@@ -1,4 +1,4 @@
-### Hi, I'm Gabi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+### Hi, I'm Gabriel Oanea! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 🎓 Third-year student at the Faculty of Mathematics and Informatics, UBB Cluj-Napoca
 
