@@ -1,8 +1,8 @@
 ### Hi, I'm Gabi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-🎓 Third-year student at the Faculty of Mathematics and Informatics, Babes-Bolyai University
+🎓 Third-year student at the Faculty of Mathematics and Informatics, UBB Cluj-Napoca
 
-💡 Passionate about problem-solving, project management, sports, and technology.
+💡 Passionate about problem-solving, project management, sports, and technology
 
 🤝 Active volunteer, always eager to contribute and grow
 
